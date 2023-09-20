@@ -1,0 +1,35 @@
+* {
+   background-color: blanchedalmond;
+    list-style-type: none;
+    text-align: center;
+    justify-content: center;
+    
+}
+
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+img {max-width: 800px;
+    max-height: fit-content
+
+}
+
+
+ h1 {
+    font-weight: 300;
+    color: rgb(186, 123, 45);
+    text-align: center;
+
+ }
+
+.main {
+    background-color: green;
+    color: red;
+    align-items: center;
+}
+
